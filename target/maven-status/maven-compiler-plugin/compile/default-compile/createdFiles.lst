@@ -1,0 +1,8 @@
+padroescomportamentais/commandcart/Command.class
+padroescomportamentais/commandcart/ReserveStockCommand.class
+padroescomportamentais/commandcart/AddItemCommand.class
+padroescomportamentais/commandcart/Checkout.class
+padroescomportamentais/commandcart/ChargeCommand.class
+padroescomportamentais/commandcart/Inventory.class
+padroescomportamentais/commandcart/Wallet.class
+padroescomportamentais/commandcart/Cart.class
